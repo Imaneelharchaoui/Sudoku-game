@@ -1,0 +1,10 @@
+
+gcc -c user.c
+gcc -c sudoku44.c
+
+gcc -c main.c
+
+ar rs bib.a sudoku44.o
+gcc -o main main.c bib.a
+
+main
