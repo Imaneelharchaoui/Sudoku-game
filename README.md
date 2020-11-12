@@ -12,5 +12,9 @@ At the start of the game, one or more numbers or figures are already placed and 
 In addition to that each player will have a score that will allow him to compete with other players in terms of score and level.
 
 
-<img src="Portimage.PNG" />
-<img src="public/Portimage.PNG"/>
+<img src="sudoku.png" />
+<img src="sudoku0.png"/>
+<img src="sudoku1.png"/>
+<img src="sudoku3.png"/>
+
+
